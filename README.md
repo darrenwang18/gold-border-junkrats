@@ -1,2 +1,1 @@
-# gbj
-gold border junkrats
+# gold border junkrats
