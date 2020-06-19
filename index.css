@@ -1,0 +1,10 @@
+body {
+    background-color: #222222;
+}
+
+img {
+    height: 15rem;
+    width: 10rem;
+    border-radius: .3rem;
+    border: 5px solid #121212;
+}
