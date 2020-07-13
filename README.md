@@ -1,1 +1,2 @@
-# gold border junkrats
+# Gold Border Junkrats
+Gold Border Junkrats
